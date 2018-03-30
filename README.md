@@ -6,7 +6,7 @@ According to the `Pratical_Assignment_Proposal.pdf`, in this **CARVANA** project
 - **TASK 2**  Development of an algorithm that, given the car segmentation ground-truth or task 1 result (and the original image, if needed), classifies the vehicle in one of four classes: compact, pick up, sedan or SUV. The performance of the classification method is to be evaluated via accuracy.
 - **TASK 3**  Development of an algorithm that, given the car segmentation and the original image, predicts the brand of the vehicle.
 
-The **Dataset** given to this project is in the folders `compact`, `pick_up`, `sedan` and `SUV`.
+The **Dataset** given to this project is in the folders `compacto`, `pick_up`, `sedan` and `SUV`.
 Each vehicle has 4 images corresponding to the front, back, side and another view, as well as the corresponding segmentation ground truth (binary mask).
 
 ## Execution of TASK 1
