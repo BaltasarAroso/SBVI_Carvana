@@ -9,15 +9,15 @@ According to the `Pratical_Assignment_Proposal.pdf`, in this **CARVANA** project
 The **Dataset** given to this project is in the folders `compact`, `pick_up`, `sedan` and `SUV`.
 Each vehicle has 4 images corresponding to the front, back, side and another view, as well as the corresponding segmentation ground truth (binary mask).
 
-# Execution of TASK 1
+## Execution of TASK 1
  - Execute `task1.m`.
  - To see the table with all the efficiency values, open the variable (matrix) 'similarity' after the execution of the program.
 
-# Execution of TASK 2
+## Execution of TASK 2
  - To get the values from the tables displayed, open `database.m`, uncomment what you want to measure and run it.
  - To test the tasks, execute `task2.m` and select the file you want to test (the request of the file is an infinite loop that ends when the button Cancel is pressed)
 
-# Execution of TASK 3
+## Execution of TASK 3
  - Execute `task3.m`. This program will run all 16 rear view vehicle images and print the results like this: image index, brand number obtained, brand obtained.
 
 # Execution of TASK 1 + TASK 2
