@@ -2,9 +2,9 @@
 SBVI (Sistemas Baseados em Visão) means Vision Based Systems and is a curricular unit in the field of Automation in the Eletrical and Computer Engineering Master Degree that aims to study segmentation and image processing.
 
 According to the `Pratical_Assignment_Proposal.pdf`, in this **CARVANA** project are three diferent tasks:
-- **TASK 1**  Development of an algorithm to perform car segmentation. The segmentation algorithm should be automatic, i.e., work without any user interaction. Four different views are provided for each vehicle. Finally, the performance of the segmentation method should be compared with the ground-truth via the Sørensen–Dice coefficient, which is also to be implemented by the group.
-- **TASK 2**  Development of an algorithm that, given the car segmentation ground-truth or task 1 result (and the original image, if needed), classifies the vehicle in one of four classes: compact, pick up, sedan or SUV. The performance of the classification method is to be evaluated via accuracy.
-- **TASK 3**  Development of an algorithm that, given the car segmentation and the original image, predicts the brand of the vehicle.
+- **TASK 1**  - Development of an algorithm to perform car segmentation. The segmentation algorithm should be automatic, i.e., work without any user interaction. Four different views are provided for each vehicle. Finally, the performance of the segmentation method should be compared with the ground-truth via the Sørensen–Dice coefficient, which is also to be implemented by the group.
+- **TASK 2**  - Development of an algorithm that, given the car segmentation ground-truth or task 1 result (and the original image, if needed), classifies the vehicle in one of four classes: compact, pick up, sedan or SUV. The performance of the classification method is to be evaluated via accuracy.
+- **TASK 3**  - Development of an algorithm that, given the car segmentation and the original image, predicts the brand of the vehicle.
 
 The **Dataset** given to this project is in the folders `compacto`, `pick_up`, `sedan` and `SUV`.
 Each vehicle has 4 images corresponding to the front, back, side and another view, as well as the corresponding segmentation ground truth (binary mask).
